@@ -9,6 +9,7 @@ import "fmt"
 func main() {
 
 	fmt.Printf("Hello, World!\n")
+	fmt.Printf("Bonjour Le Monde!\n")
 
 }
 
