@@ -12,6 +12,7 @@ func main() {
 	fmt.Printf("Bonjour Le Monde!\n")
 	fmt.Printf("Ciao Mondo!\n")
 	fmt.Printf("Hallo Welt!\n")
+	fmt.Printf("こんにちは世界！\n")
 
 }
 
